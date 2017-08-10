@@ -1,0 +1,6 @@
+url=http://www.gmail.com
+login=sofiya.sydorenko@gmail.com
+subject=test
+text=test
+key=webdriver.chrome.driver
+value=src/main/resources/chromedriver.exe
